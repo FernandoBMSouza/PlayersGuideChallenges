@@ -1,0 +1,30 @@
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.exe
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.deps.json
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.dll
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.pdb
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.dll
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\refint\DiscountedInventory.dll
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.pdb
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\ref\DiscountedInventory.dll
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.exe
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.deps.json
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.dll
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.pdb
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.dll
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\refint\DiscountedInventory.dll
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.pdb
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\10 - DiscountedInventory\DiscountedInventory\obj\Debug\net6.0\ref\DiscountedInventory.dll
