@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.exe
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.deps.json
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.dll
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\bin\Debug\net6.0\TheLawsOfFreach.pdb
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.dll
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net6.0\refint\TheLawsOfFreach.dll
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.pdb
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net6.0\TheLawsOfFreach.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net6.0\ref\TheLawsOfFreach.dll
