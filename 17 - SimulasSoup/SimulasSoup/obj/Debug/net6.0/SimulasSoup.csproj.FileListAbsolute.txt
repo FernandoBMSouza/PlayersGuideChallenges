@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\obj\Debug\net6.0\SimulasSoup.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\obj\Debug\net6.0\SimulasSoup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\obj\Debug\net6.0\SimulasSoup.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\obj\Debug\net6.0\SimulasSoup.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\obj\Debug\net6.0\SimulasSoup.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\bin\Debug\net6.0\SimulasSoup.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\bin\Debug\net6.0\SimulasSoup.deps.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\bin\Debug\net6.0\SimulasSoup.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\bin\Debug\net6.0\SimulasSoup.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\bin\Debug\net6.0\SimulasSoup.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\obj\Debug\net6.0\SimulasSoup.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\obj\Debug\net6.0\refint\SimulasSoup.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\obj\Debug\net6.0\SimulasSoup.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\obj\Debug\net6.0\SimulasSoup.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\SimulasSoup\SimulasSoup\obj\Debug\net6.0\ref\SimulasSoup.dll

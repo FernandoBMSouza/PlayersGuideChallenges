@@ -20,4 +20,4 @@ while (true)
     }
 }
 
-enum ChestState { Open, Closed, Locked };
+enum ChestState { Open, Closed, Locked }
