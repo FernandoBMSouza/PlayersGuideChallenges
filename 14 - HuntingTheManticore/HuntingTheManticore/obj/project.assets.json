@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\HuntingTheManticore\\HuntingTheManticore\\HuntingTheManticore.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\14 - HuntingTheManticore\\HuntingTheManticore\\HuntingTheManticore.csproj",
       "projectName": "HuntingTheManticore",
-      "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\HuntingTheManticore\\HuntingTheManticore\\HuntingTheManticore.csproj",
+      "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\14 - HuntingTheManticore\\HuntingTheManticore\\HuntingTheManticore.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\HuntingTheManticore\\HuntingTheManticore\\obj\\",
+      "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\14 - HuntingTheManticore\\HuntingTheManticore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",

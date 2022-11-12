@@ -1,78 +1,94 @@
-﻿//Variables
-int cityMaxHealth = 15;
-int cityCurrentHealth = cityMaxHealth;
-int maticoreMaxHealth = 10;
-int manticoreCurrentHealth = maticoreMaxHealth;
-int manticorePosition = 0;
+﻿// ---------------------------VARIABLES------------------------------
+using System;
+using System.Text;
+
+const int cityMaxHealth = 15;
+const int maticoreMaxHealth = 10;
 int round = 1;
 
+int manticorePosition = 0;
+int manticoreCurrentHealth = maticoreMaxHealth;
+int cityCurrentHealth = cityMaxHealth;
 
-//Main Method
-while (true)
+
+// ---------------------------MAIN METHOD------------------------------
+manticorePosition = AskForANumberInRange("Player 1, how far away from the city do you want to station the Manticore? ", 0, 100);
+Console.Clear();
+
+Console.WriteLine("Player 2, it is your turn.");
+
+while (cityCurrentHealth > 0 && manticoreCurrentHealth > 0)
 {
-    Console.Write("Player 1, how far away from the city do you want to station the Manticore? ");
-    manticorePosition = Convert.ToInt32(Console.ReadLine());
+    // Display the status for the round.
+    Console.ForegroundColor = ConsoleColor.White;
+    Console.WriteLine("-----------------------------------------------------------");
+    DisplayStatus(round, cityCurrentHealth, manticoreCurrentHealth);
 
-    if (manticorePosition >= 0 && manticorePosition <= 100) break;
+    // Display the amount of damage expected on a hit.
+    int damage = DamageForRound(round);
+    Console.ForegroundColor = ConsoleColor.Yellow;
+    Console.WriteLine($"The cannon is expected to deal {damage} damage this round.");
 
-    Console.WriteLine("The number must be between 0 and 100!");
+    // Get a number from the player.
+    Console.ForegroundColor = ConsoleColor.White;
+    int target = AskForNumber("Enter desired cannon range: ");
+
+    // Display the outcome of the number.
+    Console.ForegroundColor = ConsoleColor.Magenta;
+    DisplayOverOrUnder(target, manticorePosition);
+
+    // Deal damage to the Manticore if it was a hit.
+    if (target == manticorePosition) manticoreCurrentHealth -= damage;
+
+    // Deal damage to the city if the Manticore is still alive.
+    if (manticoreCurrentHealth > 0) cityCurrentHealth--;
+
+    // Go on to the next round.
+    round++;
 }
 
-Console.Clear();
-Console.WriteLine("Player 2, it is your turn.");
-Console.WriteLine("--------------------------");
-GameLoop();
-Console.ReadKey();
+Console.WriteLine("-----------------------------------------------------------");
 
+// Display the outcome of the game.
+bool result = cityCurrentHealth > 0;
+DisplayWinOrLose(result);
 
-//Methods
-void GameLoop()
+// ---------------------------METHODS------------------------------
+
+int AskForNumber(string text)
 {
-    while(true)
+    Console.Write(text);
+    int number = Convert.ToInt32(Console.ReadLine());
+    return number;
+}
+
+int AskForANumberInRange(string text, int min, int max)
+{
+    while (true)
     {
-        DisplayMenu();
-
-        cityCurrentHealth--;
-        round++;
-
-        if(cityCurrentHealth <= 0 && manticoreCurrentHealth <= 0)
-        {
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("The Manticore has been destroyed! But the city of consolas has also been destroyed...");
-            Console.WriteLine("Game Over.");
-            break;
-        }
-        else if (cityCurrentHealth <= 0)
-        {
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Game Over.");
-            break;
-        }
-        else if(manticoreCurrentHealth <= 0)
-        {
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("The Manticore has been destroyed! The city of Consolas has been saved!");
-            break;
-        }
+        Console.Write(text);
+        int number = Convert.ToInt32(Console.ReadLine());
+        if (number >= min && number <= max)
+            return number;
     }
 }
 
-///<summary>
-/// Essa função mostra o menu do round atual para o jogador
-/// </summary>
-void DisplayMenu()
-{
+void DisplayStatus(int round, int cityCurrentHealth, int manticoreCurrentHealth) =>
     Console.WriteLine($"STATUS: Round: {round} City: {cityCurrentHealth}/{cityMaxHealth} Manticore: {manticoreCurrentHealth}/{maticoreMaxHealth}");
-    CannonPrint(round);
-    Console.Write("Enter desired cannon range: ");
-    int target = Convert.ToInt32(Console.ReadLine());
-    CheckHit(target);
-    Console.WriteLine("--------------------------");
+
+int DamageForRound(int round)
+{
+    if (round % 3 == 0 && round % 5 == 0)
+        return 1;
+    else if (round % 5 == 0 || round % 5 == 0)
+        return 1;
+    else
+        return 1;
 }
 
 ///<summary>Essa função cheva se o hit atingiu ou não a manticora.</summary>
 /// <param name="taget"> Valor que o jogador acha que a manticora está posicionada.</param>
-void CheckHit(int target)
+void DisplayOverOrUnder(int target, int manticorePosition)
 {
     if (target > manticorePosition)
     {
@@ -85,34 +101,19 @@ void CheckHit(int target)
     else
     {
         Console.WriteLine("That round was a DIRECT HIT!");
-        manticoreCurrentHealth -= CannonDamage(round);
     }
 }
 
-void CannonPrint(int round)
+void DisplayWinOrLose(bool result)
 {
-    if (round % 3 == 0 && round % 5 == 0)
+    if (result)
     {
-        Console.WriteLine("The cannon is expected to deal 10 damage this round.");
-    }
-    else if (round % 5 == 0 || round % 5 == 0)
-    {
-        Console.WriteLine("The cannon is expected to deal 3 damage this round.");
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.WriteLine("The Manticore has been destroyed! The city of Consolas has been saved!");
     }
     else
     {
-        Console.WriteLine("The cannon is expected to deal 1 damage this round.");
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine("The city has been destroyed. The Manticore and the Uncoded One have won.");
     }
 }
-
-int CannonDamage(int round)
-{
-    if (round % 3 == 0 && round % 5 == 0)
-        return 10;
-    else if (round % 5 == 0 || round % 5 == 0)
-        return 3;
-    else
-        return 1;
-}
-
-
