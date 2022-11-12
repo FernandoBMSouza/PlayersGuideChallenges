@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferna\\OneDrive\\Documentos\\GitHub\\PlayersGuideChallenges\\TheReplicatorOfDTo\\TheReplicatorOfDTo\\TheReplicatorOfDTo.csproj": {}
+    "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\12 - TheReplicatorOfDTo\\TheReplicatorOfDTo\\TheReplicatorOfDTo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferna\\OneDrive\\Documentos\\GitHub\\PlayersGuideChallenges\\TheReplicatorOfDTo\\TheReplicatorOfDTo\\TheReplicatorOfDTo.csproj": {
+    "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\12 - TheReplicatorOfDTo\\TheReplicatorOfDTo\\TheReplicatorOfDTo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documentos\\GitHub\\PlayersGuideChallenges\\TheReplicatorOfDTo\\TheReplicatorOfDTo\\TheReplicatorOfDTo.csproj",
+        "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\12 - TheReplicatorOfDTo\\TheReplicatorOfDTo\\TheReplicatorOfDTo.csproj",
         "projectName": "TheReplicatorOfDTo",
-        "projectPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\GitHub\\PlayersGuideChallenges\\TheReplicatorOfDTo\\TheReplicatorOfDTo\\TheReplicatorOfDTo.csproj",
+        "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\12 - TheReplicatorOfDTo\\TheReplicatorOfDTo\\TheReplicatorOfDTo.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\GitHub\\PlayersGuideChallenges\\TheReplicatorOfDTo\\TheReplicatorOfDTo\\obj\\",
+        "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\12 - TheReplicatorOfDTo\\TheReplicatorOfDTo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

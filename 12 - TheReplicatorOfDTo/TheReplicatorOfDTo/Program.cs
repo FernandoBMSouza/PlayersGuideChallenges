@@ -9,12 +9,14 @@ for (int i = 0; i < texValues.Length; i++)
     oldArray[i] = Convert.ToInt32(texValues[i]);
 }
 
-int[] newArray = new int[oldArray.Length];
+int[] newArray = oldArray[0..];
 
-for (int i = 0; i < newArray.Length; i++)
-{
-    newArray[i] = oldArray[i];
-}
+//int[] newArray = new int[oldArray.Length];
+
+//for (int i = 0; i < newArray.Length; i++)
+//{
+//    newArray[i] = oldArray[i];
+//}
 
 Console.WriteLine("\nOldArray: \n");
 for (int i = 0; i < oldArray.Length; i++)

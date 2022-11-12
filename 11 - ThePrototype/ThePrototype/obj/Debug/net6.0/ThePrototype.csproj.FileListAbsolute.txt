@@ -13,3 +13,18 @@ C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\ThePrototype\Th
 C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\ThePrototype\ThePrototype\obj\Debug\net6.0\ThePrototype.pdb
 C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\ThePrototype\ThePrototype\obj\Debug\net6.0\ThePrototype.genruntimeconfig.cache
 C:\Users\ferna\OneDrive\Documentos\GitHub\PlayersGuideChallenges\ThePrototype\ThePrototype\obj\Debug\net6.0\ref\ThePrototype.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\bin\Debug\net6.0\ThePrototype.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\bin\Debug\net6.0\ThePrototype.deps.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\bin\Debug\net6.0\ThePrototype.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\bin\Debug\net6.0\ThePrototype.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\bin\Debug\net6.0\ThePrototype.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\obj\Debug\net6.0\ThePrototype.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\obj\Debug\net6.0\ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\obj\Debug\net6.0\ThePrototype.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\obj\Debug\net6.0\ThePrototype.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\obj\Debug\net6.0\ThePrototype.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\obj\Debug\net6.0\ThePrototype.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\obj\Debug\net6.0\refint\ThePrototype.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\obj\Debug\net6.0\ThePrototype.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\obj\Debug\net6.0\ThePrototype.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\11 - ThePrototype\ThePrototype\obj\Debug\net6.0\ref\ThePrototype.dll

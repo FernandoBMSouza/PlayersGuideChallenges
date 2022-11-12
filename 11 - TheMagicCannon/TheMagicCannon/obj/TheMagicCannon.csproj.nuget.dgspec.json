@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferna\\OneDrive\\Documentos\\GitHub\\PlayersGuideChallenges\\TheMagicCannon\\TheMagicCannon\\TheMagicCannon.csproj": {}
+    "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\11 - TheMagicCannon\\TheMagicCannon\\TheMagicCannon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferna\\OneDrive\\Documentos\\GitHub\\PlayersGuideChallenges\\TheMagicCannon\\TheMagicCannon\\TheMagicCannon.csproj": {
+    "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\11 - TheMagicCannon\\TheMagicCannon\\TheMagicCannon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documentos\\GitHub\\PlayersGuideChallenges\\TheMagicCannon\\TheMagicCannon\\TheMagicCannon.csproj",
+        "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\11 - TheMagicCannon\\TheMagicCannon\\TheMagicCannon.csproj",
         "projectName": "TheMagicCannon",
-        "projectPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\GitHub\\PlayersGuideChallenges\\TheMagicCannon\\TheMagicCannon\\TheMagicCannon.csproj",
+        "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\11 - TheMagicCannon\\TheMagicCannon\\TheMagicCannon.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferna\\OneDrive\\Documentos\\GitHub\\PlayersGuideChallenges\\TheMagicCannon\\TheMagicCannon\\obj\\",
+        "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\11 - TheMagicCannon\\TheMagicCannon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
