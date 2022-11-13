@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.deps.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\refint\VinFletchersArrows.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\ref\VinFletchersArrows.dll
