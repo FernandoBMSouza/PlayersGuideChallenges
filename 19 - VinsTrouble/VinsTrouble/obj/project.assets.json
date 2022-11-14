@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\18 - VinFletchersArrows\\VinFletchersArrows\\VinFletchersArrows.csproj",
-      "projectName": "VinFletchersArrows",
-      "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\18 - VinFletchersArrows\\VinFletchersArrows\\VinFletchersArrows.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\VinsTrouble\\VinsTrouble\\VinsTrouble.csproj",
+      "projectName": "VinsTrouble",
+      "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\VinsTrouble\\VinsTrouble\\VinsTrouble.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\18 - VinFletchersArrows\\VinFletchersArrows\\obj\\",
+      "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\VinsTrouble\\VinsTrouble\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
