@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net6.0\ThePropertiesOfArrows.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net6.0\ThePropertiesOfArrows.deps.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net6.0\ThePropertiesOfArrows.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net6.0\ThePropertiesOfArrows.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\bin\Debug\net6.0\ThePropertiesOfArrows.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\refint\ThePropertiesOfArrows.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ThePropertiesOfArrows.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ThePropertiesOfArrows\ThePropertiesOfArrows\obj\Debug\net6.0\ref\ThePropertiesOfArrows.dll

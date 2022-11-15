@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\19 - VinsTrouble\\VinsTrouble\\VinsTrouble.csproj": {}
+    "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\ThePropertiesOfArrows\\ThePropertiesOfArrows\\ThePropertiesOfArrows.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\19 - VinsTrouble\\VinsTrouble\\VinsTrouble.csproj": {
+    "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\ThePropertiesOfArrows\\ThePropertiesOfArrows\\ThePropertiesOfArrows.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\19 - VinsTrouble\\VinsTrouble\\VinsTrouble.csproj",
-        "projectName": "VinsTrouble",
-        "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\19 - VinsTrouble\\VinsTrouble\\VinsTrouble.csproj",
+        "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\ThePropertiesOfArrows\\ThePropertiesOfArrows\\ThePropertiesOfArrows.csproj",
+        "projectName": "ThePropertiesOfArrows",
+        "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\ThePropertiesOfArrows\\ThePropertiesOfArrows\\ThePropertiesOfArrows.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\19 - VinsTrouble\\VinsTrouble\\obj\\",
+        "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\ThePropertiesOfArrows\\ThePropertiesOfArrows\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
