@@ -1,0 +1,30 @@
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\bin\Debug\net6.0\ArrowFactories.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\bin\Debug\net6.0\ArrowFactories.deps.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\bin\Debug\net6.0\ArrowFactories.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\bin\Debug\net6.0\ArrowFactories.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\bin\Debug\net6.0\ArrowFactories.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\obj\Debug\net6.0\refint\ArrowFactories.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\ArrowFactories\ArrowFactories\obj\Debug\net6.0\ref\ArrowFactories.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\bin\Debug\net6.0\ArrowFactories.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\bin\Debug\net6.0\ArrowFactories.deps.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\bin\Debug\net6.0\ArrowFactories.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\bin\Debug\net6.0\ArrowFactories.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\bin\Debug\net6.0\ArrowFactories.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\obj\Debug\net6.0\refint\ArrowFactories.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\obj\Debug\net6.0\ArrowFactories.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\21 - ArrowFactories\ArrowFactories\obj\Debug\net6.0\ref\ArrowFactories.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\20 - ThePropertiesOfArrows\\ThePropertiesOfArrows\\ThePropertiesOfArrows.csproj",
-      "projectName": "ThePropertiesOfArrows",
-      "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\20 - ThePropertiesOfArrows\\ThePropertiesOfArrows\\ThePropertiesOfArrows.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\21 - ArrowFactories\\ArrowFactories\\ArrowFactories.csproj",
+      "projectName": "ArrowFactories",
+      "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\21 - ArrowFactories\\ArrowFactories\\ArrowFactories.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\20 - ThePropertiesOfArrows\\ThePropertiesOfArrows\\obj\\",
+      "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitHub\\PlayersGuideChallenges\\21 - ArrowFactories\\ArrowFactories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
