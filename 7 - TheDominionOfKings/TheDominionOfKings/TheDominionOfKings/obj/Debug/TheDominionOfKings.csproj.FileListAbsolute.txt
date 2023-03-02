@@ -1,0 +1,7 @@
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheDominionOfKings\TheDominionOfKings\TheDominionOfKings\bin\Debug\TheDominionOfKings.exe.config
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheDominionOfKings\TheDominionOfKings\TheDominionOfKings\bin\Debug\TheDominionOfKings.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheDominionOfKings\TheDominionOfKings\TheDominionOfKings\bin\Debug\TheDominionOfKings.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheDominionOfKings\TheDominionOfKings\TheDominionOfKings\obj\Debug\TheDominionOfKings.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheDominionOfKings\TheDominionOfKings\TheDominionOfKings\obj\Debug\TheDominionOfKings.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheDominionOfKings\TheDominionOfKings\TheDominionOfKings\obj\Debug\TheDominionOfKings.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheDominionOfKings\TheDominionOfKings\TheDominionOfKings\obj\Debug\TheDominionOfKings.pdb

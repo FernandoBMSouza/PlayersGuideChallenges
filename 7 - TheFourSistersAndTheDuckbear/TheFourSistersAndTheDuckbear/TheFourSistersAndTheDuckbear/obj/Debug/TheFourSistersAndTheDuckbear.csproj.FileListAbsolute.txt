@@ -1,0 +1,7 @@
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\bin\Debug\TheFourSistersAndTheDuckbear.exe.config
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\bin\Debug\TheFourSistersAndTheDuckbear.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\bin\Debug\TheFourSistersAndTheDuckbear.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\obj\Debug\TheFourSistersAndTheDuckbear.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\obj\Debug\TheFourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\obj\Debug\TheFourSistersAndTheDuckbear.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\7 - TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\TheFourSistersAndTheDuckbear\obj\Debug\TheFourSistersAndTheDuckbear.pdb

@@ -13,3 +13,18 @@ C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\Countdown\Countd
 C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\Countdown\Countdown\obj\Debug\net6.0\Countdown.pdb
 C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\Countdown\Countdown\obj\Debug\net6.0\Countdown.genruntimeconfig.cache
 C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\Countdown\Countdown\obj\Debug\net6.0\ref\Countdown.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\bin\Debug\net6.0\Countdown.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\bin\Debug\net6.0\Countdown.deps.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\bin\Debug\net6.0\Countdown.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\bin\Debug\net6.0\Countdown.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\bin\Debug\net6.0\Countdown.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\obj\Debug\net6.0\Countdown.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\obj\Debug\net6.0\Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\obj\Debug\net6.0\Countdown.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\obj\Debug\net6.0\Countdown.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\obj\Debug\net6.0\Countdown.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\obj\Debug\net6.0\Countdown.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\obj\Debug\net6.0\refint\Countdown.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\obj\Debug\net6.0\Countdown.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\obj\Debug\net6.0\Countdown.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\13 - Countdown\Countdown\obj\Debug\net6.0\ref\Countdown.dll

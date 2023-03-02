@@ -9,7 +9,7 @@ Console.WriteLine("---------------------");
 Console.WriteLine("        PILOT        ");
 Console.WriteLine("---------------------");
 
-int number = AskForANumberInRange("Enter a number between 0 and 100: ", 0, 100);
+int number = AskForNumberInRange("Enter a number between 0 and 100: ", 0, 100);
 
 Console.BackgroundColor = ConsoleColor.Black;
 Console.ForegroundColor = ConsoleColor.White;
@@ -23,7 +23,7 @@ int answer;
 
 for(;;)
 {
-    answer = AskForANumber("Guess the number between 0 and 100: ");
+    answer = AskForNumber("Guess the number between 0 and 100: ");
 
     if (answer == number)
     {
@@ -44,23 +44,19 @@ for(;;)
 Console.WriteLine($"You found the number! It's {answer}.");
 
 
-int AskForANumberInRange(string text, int min, int max)
-{
-    while (true)
-    {
-        Console.Write(text);
-        int number = Convert.ToInt32(Console.ReadLine());
-
-        if (number <= max && number >= min)
-            return number;
-        else
-            continue;
-    }
-}
-
-int AskForANumber(string text)
+int AskForNumber(string text)
 {
     Console.Write(text);
-    int number = Convert.ToInt32(Console.ReadLine());
-    return number;
+    return Convert.ToInt32(Console.ReadLine());
+}
+
+int AskForNumberInRange(string text, int min, int max)
+{
+    int answer;
+    do
+    {
+        Console.Write(text);
+        answer = Convert.ToInt32(Console.ReadLine());
+    } while (answer >= max || answer <= min);
+    return answer;
 }
