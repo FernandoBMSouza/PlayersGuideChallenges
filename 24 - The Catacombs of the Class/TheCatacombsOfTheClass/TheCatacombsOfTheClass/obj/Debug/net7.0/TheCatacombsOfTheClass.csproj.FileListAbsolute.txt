@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\bin\Debug\net7.0\TheCatacombsOfTheClass.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\bin\Debug\net7.0\TheCatacombsOfTheClass.deps.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\bin\Debug\net7.0\TheCatacombsOfTheClass.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\bin\Debug\net7.0\TheCatacombsOfTheClass.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\bin\Debug\net7.0\TheCatacombsOfTheClass.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\obj\Debug\net7.0\TheCatacombsOfTheClass.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\obj\Debug\net7.0\TheCatacombsOfTheClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\obj\Debug\net7.0\TheCatacombsOfTheClass.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\obj\Debug\net7.0\TheCatacombsOfTheClass.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\obj\Debug\net7.0\TheCatacombsOfTheClass.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\obj\Debug\net7.0\TheCatacombsOfTheClass.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\obj\Debug\net7.0\refint\TheCatacombsOfTheClass.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\obj\Debug\net7.0\TheCatacombsOfTheClass.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\obj\Debug\net7.0\TheCatacombsOfTheClass.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\24 - The Catacombs of the Class\TheCatacombsOfTheClass\TheCatacombsOfTheClass\obj\Debug\net7.0\ref\TheCatacombsOfTheClass.dll

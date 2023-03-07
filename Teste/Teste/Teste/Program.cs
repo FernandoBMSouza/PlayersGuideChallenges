@@ -12,8 +12,10 @@ namespace Teste
         {
             int x;
             x = 5;
-            int y = x++;
+            Console.WriteLine(x);
+            int y = ++x;
             Console.WriteLine(y);
+            Console.WriteLine(x);
             Console.ReadKey();
         }
     }

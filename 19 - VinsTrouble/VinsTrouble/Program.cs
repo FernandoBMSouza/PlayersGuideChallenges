@@ -1,5 +1,5 @@
 ﻿Arrow arrow = GetArrow();
-Console.WriteLine("Price: " + arrow.GetCoast() + " gold.");
+Console.WriteLine("Price: " + arrow.GetCost() + " gold.");
 Console.ReadKey();
 
 // -------- METHODS ---------
@@ -67,7 +67,7 @@ internal class Arrow
     public float GetLength() => this.length;
     public Fletching GetFletching() => this.fletching;
 
-    public float GetCoast()
+    public float GetCost()
     {
         (float headCost, float fletchingCost, float lengthCost) cost;
 
