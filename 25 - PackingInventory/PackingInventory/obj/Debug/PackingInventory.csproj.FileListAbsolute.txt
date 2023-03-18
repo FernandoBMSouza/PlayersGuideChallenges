@@ -1,0 +1,8 @@
+C:\Users\ferna\Desktop\Projetos Livro C#\PackingInventory\PackingInventory\bin\Debug\PackingInventory.exe.config
+C:\Users\ferna\Desktop\Projetos Livro C#\PackingInventory\PackingInventory\bin\Debug\PackingInventory.exe
+C:\Users\ferna\Desktop\Projetos Livro C#\PackingInventory\PackingInventory\bin\Debug\PackingInventory.pdb
+C:\Users\ferna\Desktop\Projetos Livro C#\PackingInventory\PackingInventory\obj\Debug\PackingInventory.csproj.AssemblyReference.cache
+C:\Users\ferna\Desktop\Projetos Livro C#\PackingInventory\PackingInventory\obj\Debug\PackingInventory.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\Desktop\Projetos Livro C#\PackingInventory\PackingInventory\obj\Debug\PackingInventory.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\Projetos Livro C#\PackingInventory\PackingInventory\obj\Debug\PackingInventory.exe
+C:\Users\ferna\Desktop\Projetos Livro C#\PackingInventory\PackingInventory\obj\Debug\PackingInventory.pdb
