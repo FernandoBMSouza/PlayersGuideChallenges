@@ -39,5 +39,17 @@ namespace PackingInventory
             CurrentVolume += item.Volume;
             return true;
         }
+
+        public override string ToString()
+        {
+            string contents = "Pack containing ";
+
+            if (CurrentTotal == 0) contents += "Nothing";
+
+            for (int i = 0; i < CurrentTotal; i++)
+                contents += _itens[i].ToString() + " ";
+
+            return contents;
+        }
     }
 }
