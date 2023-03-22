@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\bin\Debug\net7.0\RoomCoordinates.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\bin\Debug\net7.0\RoomCoordinates.deps.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\bin\Debug\net7.0\RoomCoordinates.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\bin\Debug\net7.0\RoomCoordinates.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\bin\Debug\net7.0\RoomCoordinates.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\obj\Debug\net7.0\refint\RoomCoordinates.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\obj\Debug\net7.0\RoomCoordinates.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\28 - Structs\RoomCoordinates\RoomCoordinates\obj\Debug\net7.0\ref\RoomCoordinates.dll
