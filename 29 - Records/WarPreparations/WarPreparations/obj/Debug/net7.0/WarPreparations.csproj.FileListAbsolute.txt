@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\bin\Debug\net7.0\WarPreparations.exe
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\bin\Debug\net7.0\WarPreparations.deps.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\bin\Debug\net7.0\WarPreparations.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\bin\Debug\net7.0\WarPreparations.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\bin\Debug\net7.0\WarPreparations.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\obj\Debug\net7.0\WarPreparations.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\obj\Debug\net7.0\WarPreparations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\obj\Debug\net7.0\WarPreparations.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\obj\Debug\net7.0\WarPreparations.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\obj\Debug\net7.0\WarPreparations.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\obj\Debug\net7.0\WarPreparations.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\obj\Debug\net7.0\refint\WarPreparations.dll
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\obj\Debug\net7.0\WarPreparations.pdb
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\obj\Debug\net7.0\WarPreparations.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\GitHub\PlayersGuideChallenges\29 - Records\WarPreparations\WarPreparations\obj\Debug\net7.0\ref\WarPreparations.dll
